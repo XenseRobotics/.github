@@ -1,8 +1,8 @@
 <div align="center">
 
-# Robots that can feel.
+# 用触觉点亮物理智能
 
-**Sense. Manipulate. Learn.**
+**Touch Ignites Physical Intelligence.**
 
 Xense Robotics（千觉机器人）构建触觉感知、
 机器人操作和机器人学习数据采集工具链。
